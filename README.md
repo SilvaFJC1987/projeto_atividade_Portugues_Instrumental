@@ -113,7 +113,10 @@ A renovação do parque tecnológico trará benefícios significativos para todo
 
 Em um cenário onde a tecnologia evolui a cada dia, manter uma infraestrutura educacional desatualizada é um fator de risco. Este projeto de aquisição de notebooks não é apenas uma compra de equipamentos, mas um **investimento estratégico no futuro da Escola LUDO**. Ao proporcionar aos alunos as ferramentas necessárias para competir em um mercado globalizado, a escola não só recuperará sua posição de destaque, mas também continuará a cumprir sua missão de formar e transformar a sociedade por meio da educação de excelência. A modernização do laboratório não é um luxo, mas uma necessidade fundamental para garantir que a escola possa continuar a oferecer o melhor ensino profissionalizante da região.
 
-Material de referencia utilizado na construção do material
+### Material de referencia utilizado na construção do material
 [O impacto da tecnologia da informação no ensino superior](https://www.periodicos.cefetmg.br/index.php/revista-et/article/download/768/851)
 
-Desvolvido por F|J Silva
+
+
+### Desenvolvido por 
+F|J Silva
