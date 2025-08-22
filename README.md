@@ -61,7 +61,7 @@ As especificações a seguir foram definidas para equilibrar **custo-benefício 
 ### Orçamento Estimado
 
 A tabela a seguir detalha os custos estimados para a aquisição e implementação dos 30 notebooks e demais itens essenciais.
-![Imagem meramente ilustrativa de um notebook para o laboratório](https://br-media.hptiendaenlinea.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/h/p/hp_250r_g_2_1.png)
+![Imagem meramente ilustrativa de um notebook para o laboratório](https://www.dell.com/pt-br/shop/cty/pdp/spd/g-series-15-5530-laptop/g5530u251106w?tfcid=31768715&gacd=9657105-15015-5761040-275878141-0&dgc=ST&cid=71700000122547988&gclsrc=aw.ds&gad_source=1&gad_campaignid=22720161340&gbraid=0AAAAADz5MFvP3ZMkUl03FZANOTptE392r&gclid=Cj0KCQjwh5vFBhCyARIsAHBx2wyCpnVtfwvtgRkLSIWVWXIOqEesKpUW2SO7e2NPUh6SPV4vVnu9OK0aAoOEEALw_wcB)
 
 ### Orçamento Estimado Atualizado (com base em preços da Dell)
 
