@@ -1,13 +1,12 @@
 # projeto_atividade_Portugues_Instrumental
 modelo de projeto para disciplina de port. instrumental
 
-## Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola Mundo do Saber
-
+## Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola LUDO
 ---
 
 ### Resumo Executivo
 
-Este projeto visa a renovação do **parque tecnológico** da Escola de Ensino Profissionalizante Mundo do Saber com a aquisição de **30 notebooks**. O objetivo principal é equipar os alunos com ferramentas modernas e robustas, essenciais para a formação de profissionais qualificados em um mercado de trabalho cada vez mais exigente. A transição de desktops para notebooks oferece mais praticidade, sustentabilidade e um desempenho superior, superando a obsolescência dos equipamentos atuais. O investimento total estimado para o projeto é de **R$ 165.750,00**.
+Este projeto visa a renovação do **parque tecnológico** da Escola de Ensino Profissionalizante Ludo com a aquisição de **30 notebooks**. O objetivo principal é equipar os alunos com ferramentas modernas e robustas, essenciais para a formação de profissionais qualificados em um mercado de trabalho cada vez mais exigente. A transição de desktops para notebooks oferece mais praticidade, sustentabilidade e um desempenho superior, superando a obsolescência dos equipamentos atuais. O investimento total estimado para o projeto é de **R$ 400.050,00**.
 
 ---
 
@@ -62,18 +61,20 @@ As especificações a seguir foram definidas para equilibrar **custo-benefício 
 ### Orçamento Estimado
 
 A tabela a seguir detalha os custos estimados para a aquisição e implementação dos 30 notebooks e demais itens essenciais.
+![Imagem meramente ilustrativa de um notebook para o laboratório](https://br-media.hptiendaenlinea.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/h/p/hp_250r_g_2_1.png)
+
+### Orçamento Estimado Atualizado (com base em preços da Dell)
 
 | Item | Quantidade | Custo Unitário Estimado (R$) | Custo Total Estimado (R$) |
 | :--- | :---: | :---: | :---: |
-| **Notebook (Modelo Premium)** | 30 | 5.500,00 | 165.000,00 |
-| Seguro contra acidentes (anual) | 30 | 50,00 | 1.500,00 |
-| Sistema de rastreamento (licença/dispositivo) | 30 | 25,00 | 750,00 |
-| Licenças de Software (Pacote Educacional) | 30 | 50,00 | 1.500,00 |
-| Bolsas/Cases de Proteção (premium) | 30 | 35,00 | 1.050,00 |
-| Roteador Wi-Fi (para laboratório) | 1 | 500,00 | 500,00 |
-| Instalação e Configuração Inicial | 1 | 250,00 | 250,00 |
-| **TOTAL GERAL ESTIMADO** | | | **165.750,00** |
-
+| **Notebook (Dell Latitude 7450)** | 30 | 11.348,00 | 340.440,00 |
+| **Serviços Dell ProSupport Plus (anual)** | 30 | 1.842,00 | 55.260,00 |
+| **Sistema de rastreamento** | 30 | 25,00 | 750,00 |
+| **Licenças de Software (Pacote Educacional)** | 30 | 50,00 | 1.500,00 |
+| **Bolsas/Cases de Proteção (premium)** | 30 | 35,00 | 1.050,00 |
+| **Roteador Wi-Fi (para laboratório)** | 1 | 500,00 | 500,00 |
+| **Instalação e Configuração Inicial** | 1 | 250,00 | 250,00 |
+| **TOTAL GERAL ESTIMADO** | | | **400.050,00** |
 ---
 
 ### Benefícios Esperados
@@ -110,4 +111,4 @@ A renovação do parque tecnológico trará benefícios significativos para todo
 
 ### Considerações Finais
 
-Em um cenário onde a tecnologia evolui a cada dia, manter uma infraestrutura educacional desatualizada é um fator de risco. Este projeto de aquisição de notebooks não é apenas uma compra de equipamentos, mas um **investimento estratégico no futuro da Escola Mundo do Saber**. Ao proporcionar aos alunos as ferramentas necessárias para competir em um mercado globalizado, a escola não só recuperará sua posição de destaque, mas também continuará a cumprir sua missão de formar e transformar a sociedade por meio da educação de excelência. A modernização do laboratório não é um luxo, mas uma necessidade fundamental para garantir que a escola possa continuar a oferecer o melhor ensino profissionalizante da região.
+Em um cenário onde a tecnologia evolui a cada dia, manter uma infraestrutura educacional desatualizada é um fator de risco. Este projeto de aquisição de notebooks não é apenas uma compra de equipamentos, mas um **investimento estratégico no futuro da Escola LUDO**. Ao proporcionar aos alunos as ferramentas necessárias para competir em um mercado globalizado, a escola não só recuperará sua posição de destaque, mas também continuará a cumprir sua missão de formar e transformar a sociedade por meio da educação de excelência. A modernização do laboratório não é um luxo, mas uma necessidade fundamental para garantir que a escola possa continuar a oferecer o melhor ensino profissionalizante da região.
