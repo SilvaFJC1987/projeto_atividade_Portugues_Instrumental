@@ -61,7 +61,7 @@ As especificações a seguir foram definidas para equilibrar **custo-benefício 
 ### Orçamento Estimado
 
 A tabela a seguir detalha os custos estimados para a aquisição e implementação dos 30 notebooks e demais itens essenciais.
-![Imagem meramente ilustrativa de um notebook para o laboratório]((https://i.dell.com/sites/csimages/Product_Imagery/all/prod-271500-notebook-g15-5530-front-dark-gray-800x550.png))
+![Imagem meramente ilustrativa de um notebook para o laboratório](https://i.dell.com/sites/csimages/Product_Imagery/all/prod-271500-notebook-g15-5530-front-dark-gray-800x550.png)
 
 ### Orçamento Estimado Atualizado (com base em preços da Dell)
 
@@ -102,9 +102,9 @@ A renovação do parque tecnológico trará benefícios significativos para todo
 
 | Fase | Duração Estimada | Marcos Principais |
 | :--- | :--- | :--- |
-| **Planejamento Detalhado** | 2 semanas | Definição final dos modelos e cotação com fornecedores. |
-| **Processo de Aquisição** | 4 semanas | Emissão de pedido e trâmites financeiros para a compra. |
-| **Instalação e Configuração**| 3 semanas | Instalação de sistemas, softwares, e ativação de seguro e rastreamento. |
+| **Planejamento Detalhado** | 2 semanas | Definição dos modelos e cotação com fornecedores. |
+| **Processo de Aquisição** | 4 semanas | Emissão de pedido e encaminhamentos financeiros para a compra. |
+| **Instalação e Configuração**| 3 semanas | Instalação de sistemas operacional, softwares, ativação de seguro e rastreamento. |
 | **Implantação e Treinamento**| 1 semana | Liberação dos notebooks para uso e treinamento inicial para a equipe. |
 
 ---
